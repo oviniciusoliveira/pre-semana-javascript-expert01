@@ -2,7 +2,7 @@
 
 ## ℹ Sobre este repositório
 
-Este repositório tem como único objetivo armazenar os exerícios e exemplos introduzidos durante as lives que antecederam o evento _Semana Javascript Expert 1ª Edição_, realizado por [Erick Wendel](https://github.com/ErickWendel).
+Este repositório tem como objetivo armazenar os exerícios e exemplos introduzidos durante as lives que antecederam o evento _Semana Javascript Expert 1ª Edição_, realizado por [Erick Wendel](https://github.com/ErickWendel).
 
 ## 👨‍💻 Lives
 
